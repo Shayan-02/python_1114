@@ -1,0 +1,6 @@
+1- start
+2- input n
+3- correct = 20
+4- if n = correct -> print you win
+5- if n > correct -> print enter lower
+6- else -> print enter higher
